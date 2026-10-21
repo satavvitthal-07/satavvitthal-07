@@ -1,10 +1,10 @@
 
 
+
 <div align="center">
-
-<img src="profile-banner.png" width="100%" alt="Vitthal Satav - AIML Developer Banner">
-
+  <img src="profile-banner.png" width="100%" alt="Vitthal Satav - AIML Engineering Student">
 </div>
+
 
 
 
