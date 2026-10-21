@@ -1,8 +1,9 @@
 
 
 
+
 <div align="center">
-  <img src="profile-banner.png" width="100%" alt="Vitthal Satav - AIML Engineering Student">
+  <img src="./Vitthal%20Satav%20Mountain%20Portfolio%20Banner.png" width="100%" alt="Vitthal Satav - AIML Engineering Student">
 </div>
 
 
