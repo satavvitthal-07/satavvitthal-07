@@ -64,3 +64,22 @@
   <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/satavvitthal-07/satavvitthal-07/output/github-snake.svg" width="100%">
 </picture>
 
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=satavvitthal-07&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" width="49%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satavvitthal-07&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="49%">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=satavvitthal-07&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" width="70%">
+
+</div>
+
+
+
