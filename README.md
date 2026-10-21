@@ -44,3 +44,13 @@
 ### 🌱 Learn • Build • Improve • Repeat
 
 </div>
+
+
+<h2 align="center">🐍 My GitHub Contribution Snake</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satavvitthal-07/satavvitthal-07/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satavvitthal-07/satavvitthal-07/output/github-snake.svg">
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/satavvitthal-07/satavvitthal-07/output/github-snake.svg" width="100%">
+</picture>
+
